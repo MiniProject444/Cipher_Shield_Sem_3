@@ -1,7 +1,7 @@
 # Cipher Shield
 
 Cipher Shield is a user-friendly web-based application designed to provide high-security file encryption and decryption services. The website supports a wide range of file types, ensuring that your documents, images, videos, and more can be securely encrypted and decrypted with ease.
-
+  
 ## Overview
 
 Cipher Shield allows users to encrypt or decrypt various types of files, including PDFs, text documents, images, Excel sheets, Word documents, and videos. The encryption process generates a unique encryption key, which is essential for decrypting the file. Only with the correct encryption key can the file be decrypted, ensuring maximum security.
